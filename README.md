@@ -11,7 +11,7 @@ L'obiettivo principale è stato analizzare se e in che modo i modelli generativi
 - rappresentazioni di violenza esplicita,
 - contenuti psicologicamente disturbanti.
 
-Il lavoro è documentato nel file ufficiale **"Documentazione Progetto Deep Learning"**, includendo una dettagliata analisi teorica ed esperimenti applicati. :contentReference[oaicite:0]{index=0}
+Il lavoro è documentato nel file ufficiale **"Documentazione Progetto Deep Learning"**, includendo una dettagliata analisi teorica ed esperimenti applicati.
 
 ---
 
@@ -69,7 +69,7 @@ The study analyzes how AI systems — both **commercial and open-source** — ca
 - **explicit violence**,  
 - **psychologically disturbing material**.
 
-The full documentation is provided in the official file *“Documentazione Progetto Deep Learning”*. :contentReference[oaicite:1]{index=1}
+The full documentation is provided in the official file *“Documentazione Progetto Deep Learning”*.
 
 ---
 
@@ -114,4 +114,3 @@ The visual results (pages 9–13) confirm the **high vulnerability of open-sourc
 ✔ Ethical AI development frameworks  
 ✔ Regulation of high-risk content generation
 
----
